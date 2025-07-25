@@ -37,11 +37,11 @@ a {
     flex: 1;
     display: flex;
     background-color: #1F2937;
+    color: #E5E7EB;
     padding: 10px 20px;
 }
 
 .text-sign-up {
-    color: #E5E7EB;
     font-size: 18px;
     flex: 1;
     display: flex;
@@ -54,6 +54,15 @@ a {
     color: #F9FAF8;
     font-weight: 900;
     margin: 0;
+}
+
+.top-signup {
+    width: 75px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 5px;
+    font-weight: bold;
 }
 
 .image-container {
