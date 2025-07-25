@@ -34,12 +34,12 @@ a {
 }
 
 .top-content {
-    flex: 1;
     display: flex;
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 50px;
     gap: 20px;
+    max-height: 300px;
 }
 
 .text-sign-up {
