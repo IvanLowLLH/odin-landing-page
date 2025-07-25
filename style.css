@@ -77,3 +77,32 @@ a {
   height: 200px;         /* Match height of the container */
   width: auto;          /* Maintain aspect ratio */
 }
+
+.info-title {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: 30px;
+}
+
+.info-row {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    text-align: center;
+    padding: 75px;
+}
+
+.pic-text {
+    flex: 1;
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.info-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border: solid #3882F6;
+}
