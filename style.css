@@ -32,3 +32,39 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.top-content {
+    flex: 1;
+    display: flex;
+    background-color: #1F2937;
+    padding: 10px 20px;
+}
+
+.text-sign-up {
+    color: #E5E7EB;
+    font-size: 18px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0;
+}
+
+.image-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden; /* Prevent overflow if needed */
+}
+
+.image-container img {
+  height: 200px;         /* Match height of the container */
+  width: auto;          /* Maintain aspect ratio */
+}
