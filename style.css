@@ -144,3 +144,9 @@ a {
 .call-action .signup {
     border: 1px solid #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    color:#E5E7EB;
+    text-align: center;
+}
