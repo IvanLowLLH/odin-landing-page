@@ -106,3 +106,19 @@ a {
     border-radius: 5px;
     border: solid #3882F6;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 75px;
+    text-align: justify;
+    text-justify: auto;
+}
+
+.quote-person {
+    text-align: right;
+    font-weight: bold;
+    font-style: normal;
+}
