@@ -39,6 +39,7 @@ a {
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 50px;
+    gap: 20px;
 }
 
 .text-sign-up {
@@ -74,8 +75,8 @@ a {
 }
 
 .image-container img {
-  height: 200px;         /* Match height of the container */
-  width: auto;          /* Maintain aspect ratio */
+  height: auto;         /* Match height of the container */
+  width: 100%;          /* Maintain aspect ratio */
 }
 
 .info-title {
