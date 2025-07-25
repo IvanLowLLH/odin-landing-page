@@ -22,7 +22,7 @@ body {
 ul {
     display: flex;
     list-style-type: none;
-    gap: 15px;
+    gap: 30px;
     padding: 5px;
     align-items: center;
 }
@@ -92,7 +92,7 @@ a {
     justify-content: center;
     gap: 52px;
     text-align: center;
-    padding: 75px;
+    margin: 30px 75px;
 }
 
 .pic-text {
@@ -116,6 +116,8 @@ a {
     padding: 20px 75px;
     text-align: justify;
     text-justify: auto;
+    margin: 30px 0;
+    margin-bottom: 0;
 }
 
 .quote-person {
